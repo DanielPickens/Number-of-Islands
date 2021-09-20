@@ -28,3 +28,8 @@ var numIslands = function(grid) {
         
         return 1;
     }
+
+    /*
+    Runtime: 84 ms, faster than 73.68% of JavaScript online submissions for Number of Islands.
+Memory Usage: 40.9 MB, less than 85.13% of JavaScript online submissions for Number of Islands.
+*/
